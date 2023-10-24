@@ -10,5 +10,5 @@ Anyone who wishes to participate is welcome!
 
 ### Useful Links
 
-Find the official Qiskit Textbook [here](https://qiskit.org/learn/)
+Find the official Qiskit Textbook [here](https://qiskit.org/learn/).  
 Find an excellent lecture series on YouTube [here](https://www.youtube.com/playlist?list=PLOFEBzvs-VvqKKMXX4vbi4EB1uaErFMSO)
