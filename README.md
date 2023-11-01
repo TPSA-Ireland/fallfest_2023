@@ -8,6 +8,9 @@ The Qiskit Fall Fest will be held from October 30th to November 10th during whic
 All participants in the Fall Fest will get a certificate of participation(which will look good in applications for internships and postgraduate study) and anyone who successfully completes all labs will also get a certificate of achievement.
 Anyone who wishes to participate is welcome!
 
+## Submissions
+Please submit your completed Jupyter Notebooks [here](https://forms.gle/WPCdHcfyo93MJv3h6)
+
 ### Useful Links
 
 Sign up [here](https://forms.gle/cUGoAhCXcomGmy6d9).  
